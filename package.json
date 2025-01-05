@@ -1,14 +1,14 @@
 {
-  "name": "Queen_Anita-V4",
+  "name": "STEEZY-BOT",
   "version": "4.0.0",
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name Queen_Anita-V4 --deep-monitoring --attach",
-    "stop": "pm2 stop Queen_Anita-V4",
-    "restart": "pm2 restart Queen_Anita-V4"
+    "start": "pm2 start index.js --name STEEZY --deep-monitoring --attach",
+    "stop": "pm2 stop STEEZY",
+    "restart": "pm2 restart STEEZY"
   },
-  "author": "David Cyril",
+  "author": "STEEZY",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
